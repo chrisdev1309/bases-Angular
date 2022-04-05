@@ -9,4 +9,8 @@ import { ContadorComponent } from './contador/contador.component';
         ContadorComponent
     ]
 })
-export class ContadorModule { }
+export class ContadorModule { 
+
+    constructor() {}
+
+}
